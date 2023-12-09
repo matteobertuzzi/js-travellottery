@@ -1,0 +1,27 @@
+a {
+    color: black !important;
+}
+.jumbotron{
+    opacity: 70%;
+}
+#title{
+    font-weight: 600;
+    color:white;
+    text-shadow: 5px 5px 5px black;
+
+}
+#subTitle{
+    font-weight: 600;
+    color:white;
+    text-shadow: 5px 5px 5px black;
+}
+#headingDescription{
+    font-weight: 600;
+    color:white;
+    text-shadow: 10px 10px 10px black;
+}
+.btn{
+    background-color: white !important;
+    border-color:white !important;
+    border-radius: 10% !important;
+}
